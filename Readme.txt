@@ -8,9 +8,9 @@ Este proyecto está bajo la Licencia (MIT)
 
 ## Autores ✒️
 
-* **Logica Informatica** - [Anthony](https://github.com/Logicainformatica18/)
-* **Carlos De La Cruz** - [CarlosDv](https://github.com/carloscruz20)
-* **Ney Manuyama** - [Ney](https://github.com/neymanuyama/)
+**Logica Informatica** - [Anthony](https://github.com/Logicainformatica18/)
+ **Carlos De La Cruz** - [CarlosDv](https://github.com/carloscruz20)
+ **Ney Manuyama** - [Ney](https://github.com/neymanuyama/)
 
 ## Version 📄
 
